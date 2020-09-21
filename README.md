@@ -1,6 +1,6 @@
 # pizzaParty
 
-Small Tech Test in JavaScript
+Small Tech Test in JavaScript and HTML
 
 ## Acceptance Criteria
 
@@ -19,3 +19,4 @@ How many pizzas do you have? 2
 Each person gets 2 pieces of pizza.
 There are 0 leftover pieces.
 ```
+## Page Screen Shot
