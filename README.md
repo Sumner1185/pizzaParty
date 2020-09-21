@@ -22,17 +22,17 @@ There are 0 leftover pieces.
 ## Page Screen Shots
 
 <kbd>
- <img style='border:1px solid #000000' src=images/screenshot1.png width=600/>
+ <img style='border:1px solid #000000' src=images/Screenshot1.png width=600/>
 </kbd>
 <br><br>
 <kbd>
- <img style='border:1px solid #000000' src=images/screenshot2.png width=600/>
+ <img style='border:1px solid #000000' src=images/Screenshot2.png width=600/>
 </kbd>
 <br><br>
 <kbd>
- <img style='border:1px solid #000000' src=images/screenshot3.png width=600/>
+ <img style='border:1px solid #000000' src=images/Screenshot3.png width=600/>
 </kbd>
 <br><br>
 <kbd>
- <img style='border:1px solid #000000' src=images/screenshot4.png width=600/>
+ <img style='border:1px solid #000000' src=images/Screenshot4.png width=600/>
 </kbd>
