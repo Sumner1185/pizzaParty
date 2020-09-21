@@ -9,10 +9,10 @@ Write a program to evenly divide pizzas. Prompt for the number of people, the nu
 Example output:
 
 ```
-$ How many people? 8
+How many people? 8
 ```
 ```
-$ How many pizzas do you have? 2
+How many pizzas do you have? 2
 ```
 ```
 8 people with 2 pizzas.
