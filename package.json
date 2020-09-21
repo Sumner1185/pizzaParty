@@ -1,0 +1,23 @@
+{
+  "name": "pizzaParty",
+  "version": "1.0.0",
+  "description": "Small Tech Test in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumner1185/pizzaParty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumner1185/pizzaParty/issues"
+  },
+  "homepage": "https://github.com/Sumner1185/pizzaParty#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
