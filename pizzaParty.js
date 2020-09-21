@@ -1,22 +1,28 @@
+const SLICES_PER_PIZZA = 8
+
 function numberOfSlices(people, pizza) {
-  return Math.floor((pizza * 8) / people)
+  return Math.floor((pizza * SLICES_PER_PIZZA) / people)
  }
 
-//  function remainingSlices(people, pizza) {
+ function remainingSlices(people, pizza) {
+  return (pizza * SLICES_PER_PIZZA) % people
+ }
 
-//  }
-
- function getInfo(people, pizza) {
+ function displayResults(people, pizza) {
   let slices = numberOfSlices(people, pizza)
-  let result = `${people} people with ${pizza} pizzas.\n
-  Each person gets ${slices} pieces of pizza.\n`
-  return result
+  let leftOvers = remainingSlices(people, pizza)
+  let firstLine = `${people} people with ${pizza} pizzas.`
+  let secondLine = `Each person gets ${slices} pieces of pizza.`
+  let thirdLine = `There are ${leftOvers} leftover pieces.`
+
+  return `${firstLine}\n${secondLine}\n${thirdLine}`
  }
 
- function DisplayFunction() {
+ function getInfo() {
     let people = window.prompt('How many people?')
     let pizza = window.prompt('How many pizzas do you have?')
-    let result;
-    result = getInfo(people, pizza);
-    document.write (result);
+    let result = displayResults(people, pizza);
+
+    return result
+    // document.write (result);
  }

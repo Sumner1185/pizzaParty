@@ -1,26 +1,13 @@
-<!-- <head>
-  <title>
-    Pizza Party
-  </title>
-</head>
-<script type="text/javascript" src="./src/pizzaParty.js"></script>
-
-<body>
-  <h1>Pizza Party</h1>
-  <button onclick="pizzaParty()">Click Me!</button>
-</body> -->
-
 <html>
    <head>
     <script type="text/javascript" src="./pizzaParty.js"></script>
-
    </head>
    
    <body>
       <h1>Pizza Party</h1>
       <p>Let's see how many slices everyone gets......</p>
-      <form>
-         <input type = "button" onclick = "DisplayFunction()" value = "Calculate">
-      </form>
+        <button onclick="getElementById('results').innerHTML=getInfo()">Calculate</button>
+
+      <p id="results"></p>
    </body>
 </html>
