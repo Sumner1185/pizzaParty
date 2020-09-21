@@ -19,4 +19,8 @@ How many pizzas do you have? 2
 Each person gets 2 pieces of pizza.
 There are 0 leftover pieces.
 ```
-## Page Screen Shot
+## Page Screen Shots
+
+<p align="center">
+ <img src=images/screenshot1.png width=110%>
+</p><br><br>
