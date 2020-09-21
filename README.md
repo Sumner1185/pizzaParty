@@ -22,5 +22,5 @@ There are 0 leftover pieces.
 ## Page Screen Shots
 
 <p align="center">
- <img src=images/screenshot1.png width=110%>
+ <img src=images/screenshot1.png width=110% border="2">
 </p><br><br>
